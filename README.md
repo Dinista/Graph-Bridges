@@ -15,7 +15,6 @@ The program starts by reading the number of vertices and edges (v e). After obta
 Initially, you need to specify both the number of vertices and edges in a single line as (v e). For instance, consider a graph with x vertices and y edges:
 ```
 x y
-
 ```
 After, will start to read each edge path, let say x is 5 and y is 8, an example of input 
 
@@ -29,7 +28,6 @@ After, will start to read each edge path, let say x is 5 and y is 8, an example 
 2 4
 1 4
 0 4
-
 ```
 
 ### Output
@@ -37,7 +35,6 @@ After, will start to read each edge path, let say x is 5 and y is 8, an example 
 ```
 (3,4) e ponte!
 3 e um ponto de articulacao.
-
 ```
 The edge (3,4) is a bridge and the vertice 3 is articulation point. If nothing shows on the screen, there's no edge or point in the graph.
 
