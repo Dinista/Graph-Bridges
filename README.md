@@ -10,7 +10,8 @@ The program starts by reading the number of vertices and edges (v e). After obta
 
 ## How to use it
 
-
 ### Input
+
+Initially, you need to specify both the number of vertices and edges in a single line as (v e). For instance, consider a graph with x vertices and x edges:
 
 ### Output
