@@ -12,6 +12,21 @@ The program starts by reading the number of vertices and edges (v e). After obta
 
 ### Input
 
-Initially, you need to specify both the number of vertices and edges in a single line as (v e). For instance, consider a graph with x vertices and x edges:
+Initially, you need to specify both the number of vertices and edges in a single line as (v e). For instance, consider a graph with x vertices and y edges:
+```
+x y
+
+```
+After, will start to read each edge path, let say x is 5 and y is 5, an example of input 
+
+```
+5 5
+5 0
+5 2
+2 3
+3 1
+4 1
+
+```
 
 ### Output
