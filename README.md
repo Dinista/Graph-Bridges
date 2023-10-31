@@ -1,7 +1,8 @@
 # Graph-Bridges
-Simple code to find bridges and articulation points in a oriented graph.
 
 ## Introduction
+
+Implementação básica que realiza a leitura de um grafo orientado encontrando suas <b>pontes</b> e <b>pontos de articulação</b>.
 
 ## How It Works
 
